@@ -1,0 +1,7 @@
+2020-01-29 16:54:03.191  INFO 13748 --- [RMI TCP Connection(3033)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2020-01-29 16:54:05.269  INFO 13748 --- [RMI TCP Connection(3033)-127.0.0.1] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-01-29 16:54:05.351  INFO 13748 --- [RMI TCP Connection(3033)-127.0.0.1] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2020-01-29 16:54:05.480  INFO 13748 --- [RMI TCP Connection(3033)-127.0.0.1] .SchemaDropperImpl$DelayedDropActionImpl : HHH000477: Starting delayed evictData of schema as part of SessionFactory shut-down'
+2020-01-29 16:54:05.956 ERROR 13748 --- [RMI TCP Connection(3033)-127.0.0.1] .SchemaDropperImpl$DelayedDropActionImpl : HHH000478: Unsuccessful: drop table customer_details if exists
+2020-01-29 16:54:06.773  INFO 13748 --- [RMI TCP Connection(3033)-127.0.0.1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2020-01-29 16:54:06.886  INFO 13748 --- [RMI TCP Connection(3033)-127.0.0.1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
